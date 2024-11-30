@@ -24,7 +24,7 @@ public class PersonalDemo {
 		
 		System.out.println(person);
 		
-		TaxCalculation calc=new TaxCalculation();
+		
 		
 		System.out.println("After Tax calculation");
 		System.out.println(person);
